@@ -7,7 +7,7 @@
 ### 综合
 
 [信息门户](http://campus.zzuli.edu.cn)
-
+|
 [电话查询](http://info.zzuli.edu.cn/2614/list.htm)
 
 ### 教务
@@ -17,16 +17,17 @@
 ### 蹭课信息查询
 
 [班级课表](http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_ClassSel.aspx)
-
+|
 [课程课表](http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_LessonSel.aspx)
-
+|
 [任选课表](http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_RXKBSel.aspx)
-
+|
 [教室课表](http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_RoomSel.aspx)
 
 ### 时间表
 
 [作息时间](http://jwcs.zzuli.edu.cn/jwweb/_data/index_ZXSJ.aspx)
+|
 [校车时间通知](http://info.zzuli.edu.cn/2619/list.htm?tdsourcetag=s_pctim_aiomsg)
 
 ### 内网资源
