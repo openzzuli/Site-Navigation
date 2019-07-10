@@ -18,7 +18,7 @@
 
 [班级课表](http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_ClassSel.aspx)
 
-[课程课表]（http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_LessonSel.aspx）
+[课程课表](http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_LessonSel.aspx)
 
 [任选课表](http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_RXKBSel.aspx)
 
