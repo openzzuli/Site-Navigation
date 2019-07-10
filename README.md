@@ -27,6 +27,7 @@
 ### 时间表
 
 [作息时间](http://jwcs.zzuli.edu.cn/jwweb/_data/index_ZXSJ.aspx)
+[校车时间通知](http://info.zzuli.edu.cn/2619/list.htm?tdsourcetag=s_pctim_aiomsg)
 
 ### 内网资源
 
