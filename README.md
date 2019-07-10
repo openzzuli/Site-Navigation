@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## 欢迎来到 郑州轻工业大学网址导航
 
-You can use the [editor on GitHub](https://github.com/openzzuli/Site-Navigation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+本站提供一站式校园网址导航服务。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+部分链接需在校园网环境下才能访问，请自行甄别(欢迎反馈)。
 
-### Markdown
+### 综合
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[信息门户](http://campus.zzuli.edu.cn)
 
-```markdown
-Syntax highlighted code block
+[电话查询](http://info.zzuli.edu.cn/2614/list.htm)
 
-# Header 1
-## Header 2
-### Header 3
+### 教务
 
-- Bulleted
-- List
+[老版教务系统](http://jwcs.zzuli.edu.cn/jwweb/)
 
-1. Numbered
-2. List
+### 蹭课信息查询
 
-**Bold** and _Italic_ and `Code` text
+[班级课表](http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_ClassSel.aspx)
 
-[Link](url) and ![Image](src)
-```
+[课程课表]（http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_LessonSel.aspx）
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[任选课表](http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_RXKBSel.aspx)
 
-### Jekyll Themes
+[教室课表](http://jwcs.zzuli.edu.cn/jwweb/ZNPK/KBFB_RoomSel.aspx)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/openzzuli/Site-Navigation/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 时间表
+
+[作息时间](http://jwcs.zzuli.edu.cn/jwweb/_data/index_ZXSJ.aspx)
+
+### 内网资源
+
+[Airdirver](http://172.20.152.44:23333/)
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+直接pr就行。
