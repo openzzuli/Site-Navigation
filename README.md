@@ -33,6 +33,8 @@
 ### 内网资源
 
 [Airdirver](http://172.20.152.44:23333/)
+|
+[图书馆馆藏查询](http://gccx.zzuli.edu.cn:8091/sms/opac/search/showiphoneSearch.action)
 
 ### Support or Contact
 
