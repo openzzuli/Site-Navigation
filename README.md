@@ -36,6 +36,9 @@
 |
 [图书馆馆藏查询](http://gccx.zzuli.edu.cn:8091/sms/opac/search/showiphoneSearch.action)
 
+### 计算机教育中缺失的一课
+https://missing-semester-cn.github.io/
+
 ### Support or Contact
 
 直接pr就行。
