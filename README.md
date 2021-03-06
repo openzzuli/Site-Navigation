@@ -32,12 +32,18 @@
 
 ### 内网资源
 
-[Airdirver](http://172.20.152.44:23333/)
+[Airdirver](http://172.20.152.44:23333/) （目前失联）
 |
 [图书馆馆藏查询](http://gccx.zzuli.edu.cn:8091/sms/opac/search/showiphoneSearch.action)
 
-### 计算机教育中缺失的一课
+### 计算机教育中缺失的一课 （其实就是常用工具的教程，shell，vim，git等）
 https://missing-semester-cn.github.io/
+
+### 搜索引擎使用指南：
+https://github.com/reedthink/Site-Navigation/blob/master/%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E%E4%BD%BF%E7%94%A8%E6%8C%87%E5%8D%97.md
+
+### 提问的智慧
+https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md
 
 ### Support or Contact
 
